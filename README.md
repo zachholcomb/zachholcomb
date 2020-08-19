@@ -16,6 +16,7 @@ Hello. I'm Zach Holcomb and I'm a backend developer. My first love is Ruby, but 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat&logo=python)
 ![PyTest](https://img.shields.io/badge/-PyTest-green?style=flat&logo=python)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-green?style=flat&logo=python)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-green?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green?style=flat&logo=postgresql&logoColor=12175B)
