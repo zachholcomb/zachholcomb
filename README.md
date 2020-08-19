@@ -3,7 +3,9 @@ Hello. I'm Zach Holcomb and I'm a backend developer. My first love is Ruby, but 
 
 # Find Me Elsewhere
 Personal Portfolio Website
+
 LinkedIn
+
 Turing School of Software & Design
 
 # Technologies/ Tools I Have Used
@@ -15,3 +17,11 @@ Turing School of Software & Design
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=12175B)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+# GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zachholcomb&count_private=true&show_icons=true&theme=calm&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholcomb&show_icons=true&theme=calm&hide=CoffeeScript" />
+</a>
