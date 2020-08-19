@@ -9,14 +9,15 @@ Hello. I'm Zach Holcomb and I'm a backend developer. My first love is Ruby, but 
 [Turing School of Software & Design](https://alumni.turing.io/alumni/zach-holcomb)
 
 # Technologies/ Tools I Have Used
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=A80707)
-![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=A80707)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=12175B)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Ruby](https://img.shields.io/badge/-Ruby-green?style=flat&logo=ruby&logoColor=A80707)
+![Rails](https://img.shields.io/badge/-Rails-green?style=flat&logo=ruby-on-rails&logoColor=A80707)
+![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-FastAPI-green?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green?style=flat&logo=postgresql&logoColor=12175B)
+![Git](https://img.shields.io/badge/-Git-green?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat&logo=github&logoColor=FFFFFF)
 
 # GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
