@@ -2,11 +2,11 @@
 Hello. I'm Zach Holcomb and I'm a backend developer. My first love is Ruby, but I'm always looking to improve my software skills by learning new languages and frameworks. You'll find that my repos reflect key software development values that I uphold, including: Test Driven Development, RESTful endpoints, continuous growth, team collaboration, and problem solving.
 
 # Find Me Elsewhere
-Personal Portfolio Website
+[Personal Portfolio Website](https://zachholcomb.github.io/)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/zach-holcomb-4569741a5/)
 
-Turing School of Software & Design
+[Turing School of Software & Design](https://alumni.turing.io/alumni/zach-holcomb)
 
 # Technologies/ Tools I Have Used
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=A80707)
